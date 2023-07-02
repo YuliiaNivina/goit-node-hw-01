@@ -36,8 +36,4 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
   }
 };
 
-// invokeAction({action: "list"});
-// invokeAction({action: "get", id: "AeHIrLTr6JkxGE6SN-0Rw"});
-// invokeAction({action: "add", name: "Mango", email: "mango@gmail.com", phone: "322-22-22"});
-// invokeAction({ action: "remove", id: "qdggE76Jtbfd9eWJHrssH" });
 invokeAction(argv);
