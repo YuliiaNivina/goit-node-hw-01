@@ -1,2 +1,5 @@
 # goit-node-hw-01
-[Contribution guidelines for this project](screenshot/list.png)
+[List](screenshot/list.png)
+[Get](screenshot/get.png)
+[Add](screenshot/add.png)
+[Remove](screenshot/remove.png)
